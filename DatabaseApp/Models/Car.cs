@@ -19,7 +19,7 @@ namespace DatabaseApp.Models
 
         public int ManufacturerID { get; set; }
 
-        public Manufacturer manufacturer { get; set; }
+        //public Manufacturer manufacturer { get; set; }
 
 
     }

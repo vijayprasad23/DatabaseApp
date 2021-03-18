@@ -14,6 +14,6 @@ namespace DatabaseApp.Models
 
         public string Country { get; set; }
 
-        public Car car { get; set; }
+        //public Car car { get; set; }
     }
 }
